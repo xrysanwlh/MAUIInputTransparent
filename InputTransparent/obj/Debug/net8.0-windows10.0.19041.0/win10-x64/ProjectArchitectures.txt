@@ -1,0 +1,1 @@
+C:\Users\cno\RiderProjects\InputTransparent\InputTransparent\InputTransparent.csproj;x64
